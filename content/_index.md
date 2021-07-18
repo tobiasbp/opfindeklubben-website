@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Novela, the simplest way to start EDITING with Hugo and Forestry.
+  heading: Programmering of nørderi for børn og unge i København siden 2013.
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
