@@ -4,7 +4,7 @@ bio: 'Driver Opfinderklubben for at fremme interessen for programmering og kreat
   i den digitale verden.
 
 '
-avatar: "/images/dennis-brotzky.jpg"
+avatar: "/images/opfinderklubben_logo_01.png"
 featured: true
 social:
 - title: unsplash
