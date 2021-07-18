@@ -5,6 +5,5 @@ bio: Driver Opfinderklubben for at fremme interessen for programmering og kreati
 avatar: ''
 social: []
 featured: false
-draft: true
 
 ---
