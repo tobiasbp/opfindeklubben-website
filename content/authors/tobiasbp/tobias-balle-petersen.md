@@ -1,6 +1,6 @@
 ---
 title: Tobias Balle-Petersen
-bio: Foobar
+bio: Foobar asasas
 avatar: "/images/opfinderklubben_logo_01.png"
 social:
 - title: GitHub
