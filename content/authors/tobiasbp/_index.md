@@ -6,6 +6,6 @@ avatar: ''
 social:
 - title: GitHub
   url: https://github.com/tobiasbp
-featured: false
+featured: true
 
 ---
