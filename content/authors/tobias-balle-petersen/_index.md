@@ -1,7 +1,7 @@
 ---
 title: Tobias Balle-Petersen
-bio: 'Driver Opfinderklubben for at fremme interessen for programmering og kreativitet
-  i den digitale verden.
+bio: 'Tobias Balle-Petersen driver Opfinderklubben for at fremme interessen for programmering
+  og kreativitet i den digitale verden.
 
 '
 avatar: "/images/opfinderklubben_logo_01.png"
