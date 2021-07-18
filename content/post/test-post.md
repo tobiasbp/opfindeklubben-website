@@ -1,6 +1,7 @@
 ---
 timeToRead: 1
-authors: []
+authors:
+- Tobias Balle-Petersen
 title: Test post
 excerpt: New wonderful post
 date: 2021-07-17T22:00:00+00:00
