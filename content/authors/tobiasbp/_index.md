@@ -3,7 +3,7 @@ title: Tobias Balle-Petersen
 bio: Foobar asasas
 avatar: ''
 social:
-- title: GitHub
+- title: github
   url: https://github.com/tobiasbp
 featured: false
 
