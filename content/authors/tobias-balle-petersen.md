@@ -7,6 +7,5 @@ social:
 - title: GitHub
   url: https://github.com/tobiasbp
 featured: false
-draft: true
 
 ---
