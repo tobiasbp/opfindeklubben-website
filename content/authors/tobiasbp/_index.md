@@ -5,6 +5,6 @@ avatar: ''
 social:
 - title: github
   url: https://github.com/tobiasbp
-featured: false
+featured: true
 
 ---
