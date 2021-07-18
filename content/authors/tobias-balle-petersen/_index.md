@@ -5,7 +5,7 @@ bio: 'Driver Opfinderklubben for at fremme interessen for programmering og kreat
 
 '
 avatar: "/images/dennis-brotzky.jpg"
-featured: false
+featured: true
 social:
 - title: unsplash
   url: https://unsplash.com
