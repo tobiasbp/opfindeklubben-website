@@ -4,8 +4,8 @@ bio: Driver Opfinderklubben for at øge interessen for programmering og generel 
   i den digitale virkelighed.
 avatar: ''
 social:
-- title: ''
-  url: ''
+- title: GitHub
+  url: https://github.com/tobiasbp
 featured: false
 draft: true
 
