@@ -1,8 +1,9 @@
 ---
 title: Tobias Balle-Petersen
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your FOOBAR handle.
+bio: 'Driver Opfinderklubben for at fremme interessen for programmering og kreativitet
+  i den digitale verden.
+
+'
 avatar: "/images/dennis-brotzky.jpg"
 featured: false
 social:
